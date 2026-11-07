@@ -72,6 +72,7 @@ export default function RootLayout({
   return (
     <html lang="ru" className="dark">
       <head>
+        <meta name="yandex-verification" content="4813dd12c67465a9" />
         <link rel="canonical" href="https://luckybear42casino.vercel.app/" />
       </head>
       <body className="antialiased bg-[#070a0f] text-[#f1f5f9] font-sans selection:bg-[#2563eb] selection:text-white">
